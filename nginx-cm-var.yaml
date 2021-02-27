@@ -6,4 +6,4 @@ data:
 kind: ConfigMap
 metadata:
   namespace: test
-  name: nginx-dev-secret  # configmap-name
+  name: nginx-cm-vars  # configmap-name
