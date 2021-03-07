@@ -1,5 +1,5 @@
 # EFS MOunting ON EKS
-the best way is to follow this workshop: https://www.eksworkshop.com/beginner/190_efs/launching-efs/
+the best way is to follow this workshop: https://www.eksworkshop.com/beginner/190_efs/launching-efs/ as he uses the efs csi driver
 
 ## OR follow this but is not recommended 
 
